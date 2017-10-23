@@ -5,10 +5,16 @@ body {
 }
 
 h1 {
-	
-	color: #34495E;
+	color: black;
+	font-size: 32px;
+	font-weight: 400;	
 }
+
+hr {
+	width: 500px;
+}
+
 
 p {
 	color: #7B7D7D;
-}
+	font-family: helvetica;

@@ -1,0 +1,33 @@
+body {
+	font-family: "Verdana";
+	text-align: center;
+	<!--background-image: url(https://i.imgur.com/yH2ap2L.jpg);-->
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-position: center top;
+
+	
+}
+
+h1 {
+	color: black;
+	font-size: 32px;
+	font-weight: bold;	
+}
+
+
+
+#slogan {
+	font-style: italic;
+}
+
+hr {
+	width: 500px;
+}
+
+
+p {
+	color: #7B7D7D;
+	font-family: helvetica;
+
+
