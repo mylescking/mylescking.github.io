@@ -10,15 +10,10 @@ body {
 }
 
 
-<!--h1 {
-	color: black;
-	font-size: 32px;
-	font-weight: bold;	
-}-->
-
 header img {
 	width: 100%;
 }
+
 
 #slogan {
 	font-style: italic;
@@ -27,6 +22,7 @@ header img {
 	font-size: 20px;
 	color: #516872
 }
+
 
 #welcome {
 	line-height: 1.25;
@@ -48,9 +44,14 @@ p {
 }
 
 
-<!--article	{
+article	{
 	padding-bottom: 20px;
-}-->
+}
+
+article a {
+	color: inherit;
+	text-decoration: none;
+}
 
 
 footer {
