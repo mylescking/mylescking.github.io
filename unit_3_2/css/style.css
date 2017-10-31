@@ -29,12 +29,24 @@ header img {
 	padding: 10px 0px;
 	font-size: 20px;
 	color: #7B7D7D
+}
+
+.article {
+	padding: 0px 100px;
+	text-align: left
+}
+
+.article_photo {
+	padding-right: 10px;
+	float: left;
+	margin-left: 100px;
 
 }
 
-
 h3 {
 	color:#516872;
+	text-align: center;
+	padding-bottom: 5px;
 }
 
 
