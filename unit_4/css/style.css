@@ -1,0 +1,33 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+
+body {
+	font-family: helvetica;
+}
+
+body {
+	text-align: center;
+	background-image: url("https://i.imgur.com/CuzLj8B.png");
+	background-size: 100%;
+}
+
+
+
+#slogan {
+	font-style: italic;
+	text-align: center;
+	font-size: 1.25em;
+	color: #516872
+}
+
+
+#welcome {
+	text-align: center;
+	line-height: 1.25;
+	padding: 10px 0px;
+	font-size: 1.5em;
+	color: #3F5158;
+}
