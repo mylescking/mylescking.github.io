@@ -8,16 +8,15 @@ body {
 	font-family: helvetica;
 }
 
-
 header img {
-	width: 100%;
+	width: 100%
 }
 
+}
 
 #slogan {
 	font-style: italic;
 	text-align: left;
-	text-indent: 20px;
 	font-size: 1.25em;
 	color: #516872
 }
@@ -37,6 +36,7 @@ section	{
 
 section img {
 	float: left;
+	padding-top: 15px;
 	padding-right: 50px;
 	padding-left: 10px;
 }
@@ -51,6 +51,7 @@ h3 {
 
 section p {
 	font-family: mercury, serif;
+	line-height: 1.25em;
 }
 
 
@@ -62,6 +63,6 @@ section a {
 
 footer {
 	background-color: #cccccc;
-	margin-top: 50px;
+	margin-top: 100px;
 	text-align: center;
 	}
