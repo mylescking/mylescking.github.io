@@ -20,6 +20,7 @@ header {
 
 h1 {
 	font-size: 3em;
+	padding-bottom: 15px;
 }
 
 
@@ -45,8 +46,8 @@ section{
 
 section p{
 	text-align: left;
-	padding-right: 25px;
-	padding-left: 25px
+	padding-right: 100px;
+	padding-left: 100px
 
 }
 
@@ -57,7 +58,7 @@ section a {
 
 h3	{
 	padding-top: 15px;
-	padding-bottom: 15px;
+	padding-bottom: 5px;
 	color: #417982
 }
 
