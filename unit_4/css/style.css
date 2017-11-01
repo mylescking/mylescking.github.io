@@ -11,27 +11,32 @@ body {
 
 header {
 	text-align: center;
-	background-image: url("https://i.imgur.com/CuzLj8B.png");
+	background-image: url("https://i.imgur.com/og6Qidt.jpg");
 	background-size: 100%;
 	background-repeat: no-repeat;
+	padding-top: 100px;
+	padding-bottom: 100px;
 }
 
+h1 {
+	font-size: 3em;
+}
 
 
 #slogan {
 	font-style: italic;
 	text-align: center;
 	font-size: 1.25em;
-	color: #516872
+	color: #5BA9B5
 }
 
 
 #welcome {
 	text-align: center;
 	line-height: 1.25;
-	padding: 10px 0px;
+	padding-top: 2em;
 	font-size: 1.5em;
-	color: #3F5158;
+	color: #417982;
 }
 
 section{
@@ -40,7 +45,9 @@ section{
 
 section p{
 	text-align: left;
+	padding-right: 25px;
 	padding-left: 25px
+
 }
 
 section a {
@@ -51,10 +58,11 @@ section a {
 h3	{
 	padding-top: 15px;
 	padding-bottom: 15px;
+	color: #417982
 }
 
 footer {
-	background-color: #cccccc;
+	background-color: #417982;
 	margin-top: 100px;
 	text-align: center;
 	}
