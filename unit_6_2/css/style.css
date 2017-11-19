@@ -39,17 +39,16 @@ nav a{
 }
 
 
-main {
+/*main {
 	width: 1200px;
-	margin: 0 auto;
+	margin: 0 auto;*/
 }
 
 h1 {
+	font-family: 'Raleway', sans-serif;
 	font-size: 4em;
 	padding-bottom: .25em;
 	color: #071D28;
-	font-family: 'Raleway', sans-serif;
-
 }
 
 
@@ -102,13 +101,26 @@ footer {
 
 .round_auri{
 	line-height: 1.5em;
-	width: 300px;
-	margin: 20px;
+	width: 30%;
+	margin: 1%;
 	text-align: center;
 	float: left;
+}
+
+.wrapper {
+	width: 90%;
+	margin: auto;
 }
 
 a:hover{
 	color:red;
 }
 
+img {
+	width: 75%;
+}
+
+.auri_pic{
+	background-color: green;
+	margin: auto;
+}
