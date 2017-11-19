@@ -33,8 +33,6 @@ header {
 	color: #417982;
 }
 
-nav {
-}
 
 nav a{
 	padding: 2em;
@@ -42,6 +40,7 @@ nav a{
 
 
 main {
+	width: 1200px;
 	margin: 0 auto;
 }
 
