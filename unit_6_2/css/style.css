@@ -8,7 +8,6 @@
 }
 
 
-
 body {
 	font-family: 'Merriweather', serif;
 	text-align: center;
@@ -33,16 +32,11 @@ header {
 	color: #417982;
 }
 
-
 nav a{
 	padding: 2em;
 }
 
 
-/*main {
-	width: 1200px;
-	margin: 0 auto;
-}*/
 
 h1 {
 	font-family: 'Raleway', sans-serif;
@@ -58,7 +52,6 @@ h3	{
 	font-size: 24px;
 	padding: .25em 0;
 	color: #417982
-
 }
 
 
@@ -67,19 +60,11 @@ a {
 	text-decoration: none;
 }
 
-/*footer {*/
-	
-	/*margin-top: 4em;*/
-	/*text-align: center;*/
-	/*}*/
-
-#slogan {
-	font-family: 'Raleway', sans-serif;
-	font-style: italic;
-	text-align: center;
-	font-size: 1.25em;
-	color: #5BA9B5
+a:hover{
+	color:red;
 }
+
+
 
 footer {
 	margin-top: 2em;
@@ -102,7 +87,7 @@ footer {
 .round_auri{
 	line-height: 1.5em;
 	width: 30%;
-	margin: 1%;
+	margin: 1.2%;
 	text-align: center;
 	float: left;
 }
@@ -112,15 +97,34 @@ footer {
 	margin: auto;
 }
 
-a:hover{
-	color:red;
+
+
+.round_auri img {
+	width: 70%;
 }
 
-img {
-	width: 75%;
+
+#slogan {
+	font-family: 'Raleway', sans-serif;
+	font-style: italic;
+	text-align: center;
+	font-size: 1.25em;
+	color: #5BA9B5
 }
 
-.auri_pic{
+/*.auri_pic{
 	background-color: green;
 	margin: auto;
-}
+}*/
+
+/*footer {*/
+	
+	/*margin-top: 4em;*/
+	/*text-align: center;*/
+	/*}*/
+
+
+/*main {
+	width: 1200px;
+	margin: 0 auto;
+}*/
