@@ -101,6 +101,9 @@ footer {
 
 .round_auri img {
 	width: 70%;
+	max-width: 200px;
+	display: block;
+	margin: auto;
 }
 
 
