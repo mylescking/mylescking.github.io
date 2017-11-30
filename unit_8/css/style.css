@@ -45,11 +45,6 @@ h1 {
 	color: #071D28;
 }
 
-/*h2 {
-	font-size: 3em;
-}*/
-
-
 h3	{
 	font-family: 'Raleway', sans-serif;
 	font-size: 2em;
@@ -76,8 +71,6 @@ a:hover{
 	color:red;
 }
 
-
-
 footer {
 	margin-top: 4em;
 	background-color: #417982;
@@ -99,7 +92,6 @@ footer {
 .wrapper {
 	width: 90%;
 	margin: auto;
-/*	background-color: blue;*/
 }
 
 .round_auri{
@@ -108,10 +100,7 @@ footer {
 	margin: 1.4%;
 	text-align: center;
 	float: left;
-/*	background-color: green;*/
 }
-
-
 
 .round_auri img {
 	width: 100%;
@@ -120,31 +109,9 @@ footer {
 	margin: auto;
 }
 
-
-/*#slogan {
-	font-family: 'Raleway', sans-serif;
-	font-style: italic;
-	text-align: center;
-	font-size: 1.25em;
-	color: #5BA9B5
-}*/
-
-/*.auri_pic{
-	background-color: green;
-	margin: auto;
-}*/
-
-/*footer {*/
-	
-	/*margin-top: 4em;*/
-	/*text-align: center;*/
-	/*}*/
-
-
 main {
 	width: 100%;
 	margin: 0 auto;
-/*	background-color: red;*/
 }
 
 @media only screen and (min-width: 1800px) {
@@ -245,10 +212,8 @@ main {
 
 @media only screen and (max-width: 700px) {
 
-
-
 	#hero {
-		padding-top: .5em;
+		padding-top: .8em;
 		padding-bottom: 3em;
 	}
 
