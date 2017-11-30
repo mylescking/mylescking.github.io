@@ -214,26 +214,15 @@ main {
 }
 
 
-
-@media only screen and (max-width: 768px) {
-	body {
-		font-size: 14px;
+/*@media only screen and (max-width: 768px) {
+	.auri_pic {
+		float: left;
+		padding-right: 5em;
 	}
 
-	nav a{
-		font-size: .9em;
-		padding: 0 1.5em;
-	}
-
-	#hero {
-		padding-top: 2em;
-		padding-bottom: 3em;
-	}
-	h1 {
-		font-size: 3.2em;
-		display: inline-block;
-		width: 50%;
-		text-align: center;
+	.right {
+		float: right;
+		display: block;
 	}
 
 	.round_auri {
@@ -243,8 +232,36 @@ main {
 		padding-bottom: 50px;
 	}
 
-@media only screen and (max-width: 700px) {
+	body {
+		font-size: 14px;
+	}*/
 
+
+@media only screen and (max-width: 768px) {
+	body {
+		font-size: 14px;
+	}
+
+	#hero {
+		padding-top: 3em;
+		padding-bottom: 5em;
+	}
+	h1 {
+		font-size: 3.2em;
+	}
+
+	.round_auri {
+		float: none;
+		width: 80%;
+		margin: 0 auto;
+		padding-bottom: 50px;
+	}
+
+@media only screen and (max-width: 600px) {
+	nav a{
+		font-size: .9em;
+		padding: 0 1.5em;
+	}
 
 
 	#hero {
@@ -309,4 +326,23 @@ main {
 	.round_auri img {
 		max-width: 150px;
 	}
+
+/*@media only screen and (max-width: 768px) {
+	#hero {
+		padding-top: 3em;
+		padding-bottom: 4em;
+	}*/
+
+
+
+	
+	
+
+
+/*	nav a {
+		display: block;
+		text-align: center;
+		margin: 0;
+	}*/
+}
 
