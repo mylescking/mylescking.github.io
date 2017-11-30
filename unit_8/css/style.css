@@ -257,14 +257,12 @@ main {
 		padding-bottom: 50px;
 	}
 
-@media only screen and (max-width: 580px) {
+@media only screen and (max-width: 600px) {
 	nav a{
-		display: block;
-		text-align: center;
-		margin: 0;
-		padding: .1em;
-		background-color: #417982;
+		font-size: .9em;
+		padding: 0 1.5em;
 	}
+
 
 	#hero {
 		padding-top: .5em;
@@ -292,6 +290,14 @@ main {
 }
 
 @media only screen and (max-width: 490px) {
+	nav a{
+		display: block;
+		text-align: center;
+		margin: 0;
+		padding: .1em;
+		background-color: #417982;
+	}
+
 	h1 {
 		font-size: 2.1em;
 		padding-top: 0em;
